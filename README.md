@@ -7,7 +7,7 @@
 
 ## Project Overview
 
-This WebGIS project is dedicated to publishing detailed geomorphological, geological, and structural data for the territory of the Caminhos dos Cânions do Sul UNESCO Global Geopark (GCCS). The goal is to provide an accessible platform for visualizing and analyzing the unique geological features and processes that define this region. **Explore the WebGIS platform here: [Geospatial Data GCCS WebMap](https://earapanos.github.io/GeospatialDataGCCS/).**
+This WebGIS project is dedicated to publishing detailed geomorphological, geological, and structural data for the territory of the Caminhos dos Cânions do Sul UNESCO Global Geopark (GCCS). The goal is to provide an accessible platform for visualizing and analyzing the unique geological features and processes that define this region. **Explore the WebGIS platform here: [Geospatial Data GCCS WebMap](https://rapanos.github.io/GeospatialDataGCCS/).**
 
 ## Data Sources
 
@@ -17,7 +17,7 @@ The data used in this project are derived from the research article:
 
 The vector files are available for download from:
 
-[Geospatial Data GCCS - Vector Layers](https://github.com/earapanos/GeospatialDataGCCS/tree/main/layers/vetoriais)
+[Geospatial Data GCCS - Vector Layers](https://github.com/rapanos/GeospatialDataGCCS/tree/main/layers/vetoriais)
 
 ## Abstract
 
@@ -45,4 +45,4 @@ For more information, please connect with me on LinkedIn: [Eduardo Rapanos](http
 
 ---
 
-This README provides an overview of the WebGIS project, detailing the data sources, research foundation, and a comprehensive abstract from the related research article. The project aims to enhance the dissemination and analysis of critical geomorphological and geological data for the GCCS territory. **Explore the WebGIS platform here: [Geospatial Data GCCS WebMap](https://earapanos.github.io/GeospatialDataGCCS/).**
+This README provides an overview of the WebGIS project, detailing the data sources, research foundation, and a comprehensive abstract from the related research article. The project aims to enhance the dissemination and analysis of critical geomorphological and geological data for the GCCS territory. **Explore the WebGIS platform here: [Geospatial Data GCCS WebMap](https://rapanos.github.io/GeospatialDataGCCS/).**
